@@ -54,7 +54,7 @@ To view the phylogenetic tree (a GUI will pop up from this terminal command)
 
 `figtree parsnp_outdir/parsnp.tree`
 
-![image](https://github.gatech.edu/comgenomics2023/Team2-ComparativeGenomics/blob/main/Results/ParSNP%20rsults.PNG)
+![image](https://github.com/bcara98/ComparativeGenomics/blob/main/Results/ParSNP%20rsults.PNG)
 
 ## Anti Microbial Resistance Analysis
 
@@ -76,7 +76,7 @@ hAMRonization gives a lot of options to combine our results. One of the options 
 
 The output is processed in MS Excel.
 
-![image](https://github.gatech.edu/comgenomics2023/Team2-ComparativeGenomics/blob/main/Results/hAMRonization%20output%20table.PNG)
+![image](https://github.com/bcara98/ComparativeGenomics/blob/main/Results/hAMRonization%20output%20table.PNG)
 
 ## Recommendations to the CDC 
 
