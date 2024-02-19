@@ -1,4 +1,4 @@
-# Team2-ComparativeGenomics
+# ComparativeGenomics
 
 ## ANI-Based Method
 
