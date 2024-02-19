@@ -22,9 +22,9 @@ FastANI has three different modes. This project uses the many-to-many mode becau
 
 We used the output file of FastANI to generate heatmap using various python libraries like matplotlib and seaborn. The exact script is in the “def fastani_run()” function in our script "run_fastANI.py".
 
-![image](https://github.gatech.edu/comgenomics2023/Team2-ComparativeGenomics/blob/main/Results/FastANIPhylogeneticTree.png)
+![image](https://github.com/bcara98/ComparativeGenomics/edit/main/Results/FastANIPhylogeneticTree.png)
 
-![image](https://github.gatech.edu/comgenomics2023/Team2-ComparativeGenomics/blob/main/Results/FastANIHeatmap.png)
+![image](https://github.com/bcara98/ComparativeGenomics/edit/main/Results/FastANIHeatmap.png)
 
 ## SNP-Based Typing Method 
 
